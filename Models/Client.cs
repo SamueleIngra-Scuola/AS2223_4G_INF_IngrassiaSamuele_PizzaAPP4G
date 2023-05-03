@@ -1,6 +1,6 @@
 ﻿namespace AS2223_4G_INF_IngrassiaSamuele_PizzaAPP4G.Models
 {
-    public class AccountModeL
+    public class Client
     {
         public int Id { get; set; }
         public string Name { get; set; }

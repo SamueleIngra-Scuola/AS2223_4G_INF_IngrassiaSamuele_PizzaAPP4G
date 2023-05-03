@@ -2,7 +2,7 @@
 
 namespace AS2223_4G_INF_IngrassiaSamuele_PizzaAPP4G.Models
 {
-    public class ProductModel
+    public class Pizza
     {
         public int Id { get; set; }
         public string Description { get; set; }
